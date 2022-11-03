@@ -1,19 +1,17 @@
 ![Banner Image](./banner.png)
 
-<br>
+<hr>
 
 <h2>Hi there 👋</h2>
-
 I'm Kavali Charan!
 - I am a programming enthusiast undergraduate student, currently pursuing B.Tech 3rd year in CSE at NIT Srinagar.
 - I am a Competitive Programmer(C++) with 2⭐ in codechef and solved 200+ problems in CodeChef, LeetCode and Hackerrank.
 - Having good problem solving skills. Skilled in Data Structures and Algorithams.
 
-[![Linkedin](./icons8-linkedin-48.png)](https://www.linkedin.com/in/charankavali23)
-[![CodeChef](./icons8-codechef-48.png)](https://www.codechef.com/users/charankavali23)
-[![LeetCode](./icons8-level-up-your-coding-skills-and-quickly-land-a-job-48.png)](https://leetcode.com/charankavali23)
+- [CodeChef](https://www.codechef.com/users/charankavali23)
+- [LeetCode](https://leetcode.com/charankavali23)
 
-<br>
+<hr>
 
 <h2>Skills I have 👨‍💻:</h2>
 
@@ -23,16 +21,18 @@ I'm Kavali Charan!
 - Developer Tools: VS Code, MS Office, Git, Git Hub
 - Data Structures and Algorithms, DBMS, OOPS and Operating System
 
-<br>
+<hr>
 
 <h2>Projects I have done 📄:</h2>
 
 - Developed a Gaming Console | C++
-  1.Tic Toc Toe 2.Snake And Ladder
+- 1.Tic Toc Toe 2.Snake And Ladder
 - Sorting Visualizer | C++ using SDL
-  Visualized Selection Sort, Bubble Sort, Insertion Sort, Merge Sort, Quick Sort and Heap Sort
+- Visualized Selection Sort, Bubble Sort, Insertion Sort, Merge Sort, Quick Sort and Heap Sort
+  
+<hr>
 
 <h2>How to contact me 📫:</h2>
 
-<a href="mailto:charankavali2309@gmail.com">![charankavali2309@gmail.com](./icons8-gmail-logo-48.png)</a>
-<a href="https://www.linkedin.com/in/charankavali23">![LinkedIn](./icons8-linkedin-48.png)</a>
+- <a href="mailto:charankavali2309@gmail.com">charankavali2309@gmail.com</a>
+- <a href="https://www.linkedin.com/in/charankavali23">Linkedin</a>
