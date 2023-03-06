@@ -5,7 +5,7 @@
 <h2>Hi there 👋</h2>
 I'm Kavali Charan!
 - I am a programming enthusiast undergraduate student, currently pursuing B.Tech 3rd year in CSE at NIT Srinagar.
-- I am a Competitive Programmer(C++) with 2⭐ in codechef and solved 200+ problems in CodeChef, LeetCode and Hackerrank.
+- I am a Competitive Programmer(C++) with 3⭐ in codechef and solved 200+ problems in CodeChef, LeetCode and Hackerrank.
 - Having good problem solving skills. Skilled in Data Structures and Algorithams.
 
 - [CodeChef](https://www.codechef.com/users/charankavali23)
