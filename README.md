@@ -45,11 +45,11 @@ I'm a **Data Engineer** at **Go Digit**, passionate about building robust APIs, 
 
 - [**CP Contest Fetcher API**](https://github.com/charankavali23/contest-fetcher)  
   An API to fetch competitive programming contests from multiple platforms and provide reminders.  
-- [**Employee Performance Analyzer**](https://github.com/charankavali23/employee-analyzer)  
-  A data analysis project to evaluate employee performance metrics.  
+- [**Sorting Visualizer**](https://github.com/charankavali23/Sorting-Visualizer-Cpp)  
+  Visualizing sorting algorithms can be a great way to better understanding the functioning.
 
 ---
-
+  
 ## 🎯 Open to Collaborate  
 
 I’m open to collaborating on:  
